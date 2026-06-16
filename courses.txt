@@ -1,2 +1,4 @@
 Information Technology
 Workplace Success
+Client-Side Web Development
+Scripting Fundementals
